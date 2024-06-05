@@ -1,4 +1,4 @@
-# Sentiment Analysis Model for News Articles on Sanctions Against Russia
+# Sentiment Analysis Model for News Articles on Sanctions Against Russia(https://www.overleaf.com/project/663218b792e8d2f6e079e18c)
 
 ## Overview
 This repository contains the code and documentation for a sentiment analysis model tailored specifically for news articles discussing sanctions against Russia. The model utilizes advanced natural language processing techniques and is built on top of the DistilBERT architecture, optimized for efficient computation and high accuracy.
